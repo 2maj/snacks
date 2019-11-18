@@ -108,3 +108,7 @@ body {
   color: rgba(255, 255, 255, .5);
 }
 
+.item{
+  width: 10em;
+  height: 10em;
+}
